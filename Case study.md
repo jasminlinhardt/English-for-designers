@@ -117,7 +117,7 @@ This included:
 
 > **Less chaos. More clarity.**
 
-![Structure](images/structure.png)
+![Structure](Structure.png)
 
 ---
 
