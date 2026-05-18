@@ -135,8 +135,6 @@ This phase helped define:
 
 The wireframes ensured that the final design stayed clean and easy to navigate.
 
-![content structure](content-structure.png)
-
 ---
 
 ## ✨ Final UI
