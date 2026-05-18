@@ -15,3 +15,4 @@ Hope you like it!
 - [A Handshake](Handshake/A_Handshake.md) – Information and images for the handshake assignment.
 
 ## Course projects - Winter semester
+- [Today I learned](Today-I-learned.md)
