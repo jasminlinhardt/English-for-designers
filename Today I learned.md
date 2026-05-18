@@ -7,7 +7,7 @@ Every single person you look up to has felt like an idiot at some point in their
 
 I also told myself that I am going to be a rapper one day. Instead of just saying it, I actually did something about it. I recorded three tracks and I even performed on a stage. It was scary and embarrassing, but I did it anyway. And it made me feel more confident in myself.
 
-![Me on stage!](Screenshot 2026-05-19 at 00.53.04.png
+![Me on stage!](Screenshot 2026-05-19 at 00.53.04.png)
 
 I try to live by the idea that I do everything for the plot. Life is like a story, and if you don’t take risks, the story is boring. Embarrassment doesn’t really exist until you tell yourself it does. It is just a feeling, and it goes away quickly.
 
