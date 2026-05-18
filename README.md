@@ -2,7 +2,7 @@
 
 Wassuuup!
 
-This is Jasmin and here are my assignments for the class English for Designers 👋
+My name is Jasmin and here are my assignments for the class English for Designers 👋
 
 Hope you like it!
 ## Course projects
