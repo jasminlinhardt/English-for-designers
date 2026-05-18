@@ -58,7 +58,7 @@ The focus was on creating an experience that feels soft, modern, and visually ba
 - Creating a smooth browsing experience  
 - Making key actions feel intuitive  
 
-![Design Goal](images/design-goal.png)
+![Phiion](Phiion.png)
 
 ---
 
@@ -75,8 +75,6 @@ I focused mainly on:
 - 🪞 Editorial-inspired layouts  
 
 The goal was to create a calm and elevated feeling throughout the experience.
-
-![Visual Direction](images/visual-direction.png)
 
 ---
 
@@ -172,13 +170,8 @@ I also realized that beauty websites don’t need complexity — clarity creates
 
 If I continued this project, I would test the design with real users and further improve mobile responsiveness.
 
----
-
-## 🔗 Check the Prototype
-
-[View Prototype](YOUR_FIGMA_LINK_HERE)
 
 ---
 
 ### 🖤 Thank you for viewing the project.
-*Designed & created by Your Name*
+*Designed & created by Jasmin Linhardt*
