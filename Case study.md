@@ -13,7 +13,7 @@ The goal was to create a website that feels calm, modern, and visually clean whi
 
 Users should instantly understand the brand and naturally explore products and services.
 
-![Homepage Preview](images/overview-image.png)
+![Homepage](Homepage.png)
 
 ---
 
