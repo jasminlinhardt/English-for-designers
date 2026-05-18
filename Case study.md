@@ -9,7 +9,7 @@
 
 This project is a homepage design for **Linda Linhardt Beauty**, focused on elegance, clarity, and a premium beauty experience.
 
-The goal was to create a website that feels calm, modern, and visually clean while reflecting the identity of a luxury beauty brand.
+The goal was to create a website that feels calm, modern, and visually clean while reflecting the identity of a luxury beauty salon.
 
 Users should instantly understand the brand and naturally explore products and services.
 
@@ -19,9 +19,9 @@ Users should instantly understand the brand and naturally explore products and s
 
 ## 💭 Problem
 
-Many beauty websites feel overwhelming.
+Many beauty salon websites feel overwhelming.
 
-Too many products.  
+Too many treatments.  
 Too much information.  
 Too many competing visuals.
 
@@ -64,7 +64,7 @@ The focus was on creating an experience that feels soft, modern, and visually ba
 
 ## 🎨 Visual Direction
 
-The visual direction was inspired by luxury skincare and beauty brands.
+The visual direction was inspired by luxury beauty salons and beauty brands from different countries.
 
 I focused mainly on:
 
@@ -88,13 +88,13 @@ The goal was to create a calm and elevated feeling throughout the experience.
 
 ## 🔍 Research
 
-The first phase focused on understanding common problems in beauty websites and identifying user expectations.
+The first phase focused on understanding common problems in beauty salon websites and identifying user expectations.
 
 ### Key findings:
 
 - Users need quick orientation  
 - Homepage sections should feel easy to scan  
-- Products should remain visually clear  
+- Treatments should remain visually clear  
 - Hierarchy is essential for trust  
 
 This phase helped define the UX direction of the project.
@@ -149,7 +149,7 @@ The final homepage focuses on simplicity and elegance.
 ✔️ Smoother user flow  
 ✔️ More premium overall feeling
 
-![Final UI](images/final-ui.png)
+[Linda Linhardt Beauty](https://lindalinhardt.beauty)
 
 ---
 
@@ -164,9 +164,7 @@ This project helped me better understand how simplicity can strengthen a brand e
 - Guide users through design  
 - Balance aesthetics with usability  
 
-I also realized that beauty websites don’t need complexity — clarity creates trust.
-
-If I continued this project, I would test the design with real users and further improve mobile responsiveness.
+I also realized that beauty salon websites don’t need complexity — clarity creates trust.
 
 
 ---
