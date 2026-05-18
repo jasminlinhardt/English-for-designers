@@ -1,0 +1,14 @@
+
+# Today I learned.... ✨💆🏼‍♀️
+
+The life you want is going to cost you embarrassment. That is the price. Asking someone out? Embarrassing. Starting a business? Everybody is going to laugh. Posting content online? You might feel like a clown. But I realized that a few seconds of embarrassment is much better than being old one day and looking back at a life full of regret. Regret happens when you are too scared to take a chance.
+
+Every single person you look up to has felt like an idiot at some point in their life. They were scared just like me, but they still did it. They put their dreams above their ego. That made me think that I should stop protecting my pride so much and start focusing on what I actually want.
+
+I also told myself that I am going to be a rapper one day. Instead of just saying it, I actually did something about it. I recorded three tracks and I even performed on a stage. It was scary and embarrassing, but I did it anyway. And it made me feel more confident in myself.
+
+I try to live by the idea that I do everything for the plot. Life is like a story, and if you don’t take risks, the story is boring. Embarrassment doesn’t really exist until you tell yourself it does. It is just a feeling, and it goes away quickly.
+
+Now I try not to care what anyone thinks about me. I remind myself that people will always have opinions, but they are not living my life. I am the only one who has to live with my choices.
+
+Today I learnt that if I want something badly enough, I have to be willing to feel uncomfortable and embarrassed. Because on the other side of that feeling is growth, confidence, and a life I actually want.
