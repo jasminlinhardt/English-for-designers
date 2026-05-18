@@ -135,7 +135,7 @@ This phase helped define:
 
 The wireframes ensured that the final design stayed clean and easy to navigate.
 
-![Wireframes](images/wireframes.png)
+![content structure](content-structure.png)
 
 ---
 
