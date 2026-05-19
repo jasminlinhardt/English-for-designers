@@ -110,6 +110,8 @@ There, I create not only UGC content, but also:
 
 And through all of this, I realized something important.
 
+![Image](Akeso.png)
+
 ---
 
 ## 💡 Realization
