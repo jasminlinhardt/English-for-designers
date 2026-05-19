@@ -17,3 +17,4 @@ Hope you like it!
 ## Course projects - Winter semester
 - [Today I learned](Today%20I%20learned.md) - Embarrassment does not exist 
 - [Case Study](Casestudy.md) - Website for Linda Linhardt beauty salon
+- [Storytelling](Storytelling.md) - How I became a UGC creator and started doing marketing
