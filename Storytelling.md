@@ -51,6 +51,8 @@ At first, it still felt natural. I was just creating, testing ideas, and explori
 
 But then Notino noticed my work.
 
+![Notino logo](Notinologo.png)
+
 ---
 
 ## 🌍 First big opportunity
