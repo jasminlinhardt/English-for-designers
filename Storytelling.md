@@ -67,6 +67,8 @@ My videos started performing really well, sometimes even better than others, eve
 
 And that’s when everything started to grow.
 
+![Image](IMG_9714.jpg)
+
 ---
 
 ## 🚀 Growth & new opportunities
