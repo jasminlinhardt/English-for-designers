@@ -84,6 +84,12 @@ I started attending events, meeting people, and creating content from completely
 
 Recently, I even did an interview with **Ewa Farna** — which still feels a bit unreal when I think about where I started.
 
+<p align="left">
+  <img src="IMG_9717.PNG" width="50%"/>
+</p>
+
+
+
 ---
 
 ## 🎬 What I do now
