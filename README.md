@@ -15,4 +15,5 @@ Hope you like it!
 - [A Handshake](Handshake/A_Handshake.md) – Information and images for the handshake assignment.
 
 ## Course projects - Winter semester
-- [Today I learned](Today%20I%20learned.md)
+- [Today I learned](Today%20I%20learned.md) - Embarrassment does not exist 
+- [Case Study](Casestudy.md) - Website for Linda Linhardt beauty salon
